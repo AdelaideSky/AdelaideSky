@@ -1,16 +1,17 @@
-### Hi there 👋
+# Adelen's profile  <img src="https://media.tenor.com/images/fb61457a217341894bd5ba5ad0311f70/tenor.gif" width="50">
 
-<!--
-**Adelenade/Adelenade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hiii! I'm Adelen, just a student but I learn code :3
 
-Here are some ideas to get you started:
+I'm passionate about programming, but also design >o>
+<br>
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adelenade&show_icons=true&hide=issues&theme=cobalt">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## The languages I use
+![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
+<br>
+
+I'm actually work for a Discord Bot in Python (private repository)
+
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelenade&theme=cobalt&layout=compact">
