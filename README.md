@@ -4,6 +4,7 @@ Hiii! I'm Adelen, just a student but I learn code :3
 
 I'm passionate about programming, but also design >o>
 <br>
+
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adelenade&show_icons=true&hide=issues&theme=cobalt">
 
 ## The languages I use
