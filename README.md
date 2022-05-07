@@ -13,6 +13,6 @@ I'm passionate about programming, but also design >o>
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
 
-I'm actually work for a Discord Bot in Python (private repository)
+I'm working on many projects but at the time i'm writing that i'm porting the GoXlr on Macos (little "driver")
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelenade&theme=cobalt&layout=compact">
