@@ -11,6 +11,7 @@ I'm passionate about programming, but also design >o>
 ![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 <br>
 
 I'm working on many projects but at the time i'm writing that i'm porting the GoXlr on Macos (little "driver")
