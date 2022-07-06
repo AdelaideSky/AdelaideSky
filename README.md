@@ -17,3 +17,9 @@ I'm passionate about programming, but also design >o>
 I'm working on many projects but at the time i'm writing that i'm porting the GoXlr on Macos (little "driver")
 
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelenade&theme=cobalt&layout=compact">
+
+## Contact
+
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ade_sky)
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6SWxENjpt9)
+
