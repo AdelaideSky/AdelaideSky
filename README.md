@@ -8,10 +8,10 @@ I'm passionate about programming, but also design >o>
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adelenade&show_icons=true&hide=issues&theme=cobalt">
 
 ## The languages I use
-![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-E7BA15?style=for-the-badge&logo=JavaScript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
 <br>
 
 I'm working on many projects but at the time i'm writing that i'm porting the GoXlr on Macos (little "driver")
