@@ -1,25 +1,46 @@
-# Adelen's profile  <img src="https://media.tenor.com/images/fb61457a217341894bd5ba5ad0311f70/tenor.gif" width="50">
+# Adélaïde Sky
 
-Hiii! I'm Adelen, just a student but I learn code :3
+![lkjnkbhjvqsfd.png](https://res.craft.do/user/full/27d0e0f3-b59a-ee06-a894-5b9b0d8a2dcb/doc/0B998F05-2AAA-4382-B535-917C0D65509F/0EEA1C43-9BDD-4746-B215-38479681673F_2/Bz2NxlyLRM8egPnBz6ZCumhsbgHqTDxAPR1y0DqurDsz/lkjnkbhjvqsfd.png)
 
-I'm passionate about programming, but also design >o>
-<br>
+## 🌸・Hi !
+I’m Adélaïde!
 
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Adelenade&show_icons=true&hide=issues&theme=cobalt">
+I create stuff, sometimes.
+I make apps that work on apple platforms, using Swift and SwiftUI (along with UI/AppKit for few tweaks) !
 
-## The languages I use
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=for-the-badge&logo=MySQL&logoColor=white)
-<br>
+I also know a bit of python, and may play a bit with server-side stuff.
 
-I'm working on many projects but at the time i'm writing that i'm porting the GoXlr on Macos (little "driver")
+I’m **Swift Student Challenge 2024 Distinguished Winner !**
 
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adelenade&theme=cobalt&layout=compact">
 
-## Contact
+## 🌱・My projects
 
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/ade_sky)
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/6SWxENjpt9)
+### Egretta (Student Challenge winning project)
 
+A simple, yet delightful dream journal app, emotion based and respectful of your privacy.
+The app includes game mechanisms to push you to remember your dreams more and more, and is made for beginners as well as advanced users.
+
+On iOS, iPadOS, and soon MacOS !
+
+Closed source, AppStore link coming soon, but for now here’s the beta link:
+
+[Join the Egretta beta](https://testflight.apple.com/join/mE8mVXbQ)
+
+### GoXLR MacOS
+
+A native UI for the GoXlr Utility, including few convenience features that fit best in macOS.
+This project isn’t actively worked on at the moment.
+
+### SkyKit
+
+A Swift Package including utilities and UI elements i use thorough my projects.
+
+## 🎏・Contact
+
+- Mail Pro: [ade@adesky.fr](mailto://ade@adesky.fr)
+- Discord: [@adelaidesky](https://discord.gg/cEHx45MH)
+- Discord Server: https://discord.gg/K6uttRtu22
+
+## 🍵・Other
+
+- CV: https://read.cv/adelaidesky
