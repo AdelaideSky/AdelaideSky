@@ -38,7 +38,7 @@ A Swift Package including utilities and UI elements i use thorough my projects.
 ## 🎏・Contact
 
 - Mail Pro: [ade@adesky.fr](mailto://ade@adesky.fr)
-- Discord: [@adelaidesky](https://discord.gg/cEHx45MH)
+- Discord: @adelaidesky
 - Discord Server: https://discord.gg/K6uttRtu22
 
 ## 🍵・Other
