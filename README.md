@@ -20,11 +20,9 @@ I’m **Swift Student Challenge 2024 Distinguished Winner !**
 A simple, yet delightful dream journal app, emotion based and respectful of your privacy.
 The app includes game mechanisms to push you to remember your dreams more and more, and is made for beginners as well as advanced users.
 
-On iOS, iPadOS, and soon MacOS !
+On iOS, iPadOS soon, and MacOS planned !
 
-Closed source, AppStore link coming soon, but for now here’s the beta link:
-
-[Join the Egretta beta](https://testflight.apple.com/join/mE8mVXbQ)
+[Get Egretta on the App Store !](https://apple.co/44pPYhH)
 
 ### GoXLR MacOS
 
