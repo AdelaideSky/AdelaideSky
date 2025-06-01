@@ -4,41 +4,44 @@
 
 ## 🌸・Hi !
 I’m Adélaïde!
+A Software Engineering student from France. :)
 
-I create stuff, sometimes.
-I make apps that work on apple platforms, using Swift and SwiftUI (along with UI/AppKit for few tweaks) !
+I have always been surrounded by technology and started coding when I was 9. A few years ago, I started learning Swift and coding apps using SwiftUI, with some exploration of UIKit.
 
-I also know a bit of python, and may play a bit with server-side stuff.
+I have since worked on a few projects, with special care to UI and emotional connection with the user, some of them awarded by people from Apple and beyond.
 
-I’m **Swift Student Challenge 2024 Distinguished Winner !**
-
+I’m **Swift Student Challenge 2024 & 2025 Distinguished Winner !**
 
 ## 🌱・My projects
+
+Most of my projects are closed-source for now (you may see horrible stuff in my public repositories - sorry !) but i have few things in the works that may be perfect as open source swift packages. :D
 
 ### Egretta (Student Challenge winning project)
 
 A simple, yet delightful dream journal app, emotion based and respectful of your privacy.
 The app includes game mechanisms to push you to remember your dreams more and more, and is made for beginners as well as advanced users.
 
-On iOS, iPadOS, VisionOS in the works, and MacOS planned !
+On iOS, iPadOS, VisionOS to be released, and MacOS planned !
 
 [Get Egretta on the App Store !](https://apple.co/44pPYhH)
 
-### GoXLR MacOS
+### Anthemis
 
-A native UI for the GoXlr Utility, including few convenience features that fit best in macOS.
-This project isn’t actively worked on at the moment.
+Anthemis is a simple app (still in the works) that empower disabled and neuro-atypical people to track their energy as they go with their day to help them reduce fatigue and make the most of their time.
 
-### SkyKit
+[Learn More](https://x.com/adelen_sky/status/1906029742052012306)
 
-A Swift Package including utilities and UI elements i use thorough my projects.
+### Viridis
+
+A very simple VisionOS app to play videos, made in a single day as a first experience in developing for the platform.
 
 ## 🎏・Contact
 
 - Mail Pro: [ade@adesky.fr](mailto://ade@adesky.fr)
 - Discord: @adelaidesky
-- Discord Server: https://discord.gg/K6uttRtu22
+- Linkedin: [Adélaïde Humez](https://www.linkedin.com/in/adelaidehumez/)
+
 
 ## 🍵・Other
 
-- CV: https://read.cv/adelaidesky
+- CV: https://read.cv/adelaidesky 
